@@ -9,6 +9,8 @@ New Project to see if it saves together
 ############################################
 ############################################
 
+getwd() 
+
 library(ggplot2)
 
 ###    Org Data    #####
